@@ -1,0 +1,14 @@
+.DS_Store
+tmp.json
+*.log
+
+# Idea
+.idea
+*.iml
+*.ipr
+*.iws
+out
+
+### Gradle template
+.gradle
+build
